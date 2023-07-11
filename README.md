@@ -1,8 +1,8 @@
 
-[substack text 1](https://kolown.substack.com/p/proof-of-work-2b64d52dd8e0)
-[online form instruction](https://www.instagram.com/p/CpzBA1-OYek/)
-[field photos](https://www.instagram.com/p/CpR_THeupul/)
-[field photos 2](https://www.instagram.com/p/Cp9A9Uyvaq8/)
+[substack text 1](https://kolown.substack.com/p/proof-of-work-2b64d52dd8e0) <br>
+[online form instruction](https://www.instagram.com/p/CpzBA1-OYek/) <br>
+[field photos](https://www.instagram.com/p/CpR_THeupul/) <br>
+[field photos 2](https://www.instagram.com/p/Cp9A9Uyvaq8/) <br>
 
 
 ## The project draws inspiration from:
@@ -29,15 +29,15 @@
 
 ## installation shots
 
-Jane Lombard Gallery, Photo credit: Arturo Sanchez
-Island Time Group Exhibition
-curated by James Clar
+Jane Lombard Gallery, Photo credit: Arturo Sanchez <br>
+Island Time Group Exhibition <br>
+curated by James Clar <br>
 
 ![Jane Lombard Gallery](https://kolown.net/server3/wp-content/uploads/2023/07/DSC8961-1536x998.jpg)
 
 ------
 
-Post Cubao X, More than a Ritual Group Show
+Post Cubao X, More than a Ritual Group Show <br>
 photo by Franco Mamaril
 
 ![more than a ritual](https://kolown.net/server3/wp-content/uploads/2023/07/photo_6154338989142816160_y.jpg)
