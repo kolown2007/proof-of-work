@@ -151,7 +151,7 @@ function sendDataToServer() {
     
     // send the data URL to the PHP server
     const xhr = new XMLHttpRequest();
-    xhr.open('POST', './server/upload.php', true);
+    xhr.open('POST', '/server/upload.php', true);
     xhr.setRequestHeader('Content-type', 'application/x-www-form-urlencoded');
     xhr.onload = function() {
       // handle response from server

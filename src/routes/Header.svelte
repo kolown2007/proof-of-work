@@ -37,6 +37,7 @@
 	header {
 		display: flex;
 		justify-content: space-between;
+		view-transition-name: header;
 	}
 
 	.corner {
@@ -121,4 +122,6 @@
 	a:hover {
 		color: var(--color-theme-1);
 	}
+
+	
 </style>
